@@ -2,6 +2,8 @@
 
 Welcome to this project on **Traffic Sign Recognition** using machine learning and computer vision!
 
+To view the report open file [traffic_signs.ipynb](traffic_signs.ipynb)
+
 ## Project Goal
 
 The goal of this project is to build a machine learning model that can automatically recognize and classify different traffic signs from images. This is especially useful in the development of self-driving vehicles and intelligent traffic systems.
